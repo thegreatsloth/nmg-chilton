@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="60" viewBox="0 0 54 60">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="outline" transform="translate(-5 -2)">
+        <path id="Path_8612" d="M58 14h-5V5a3 3 0 0 0-3-3H14a3 3 0 0 0-3 3v9H6a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h5v9a21 21 0 0 0 42 0v-9h5a1 1 0 0 0 1-1V15a1 1 0 0 0-1-1zM11 30H7V16h4zm40 11a19 19 0 1 1-38 0V10h38zm0-33H13V5a1 1 0 0 1 1-1h36a1 1 0 0 1 1 1zm6 22h-4V16h4z" class="cls-1" data-name="Path 8612"/>
+        <path id="Path_8613" d="M49 12H15v20h34zm-2 6.586l-4.707 4.707 1.414 1.414L47 21.414V30H18.557l11.121-10.266-1.356-1.468L17 28.716v-2.3l4.707-4.707-1.414-1.409L17 23.586V14h28.443L34.322 24.266l1.356 1.468L47 15.284z" class="cls-1" data-name="Path 8613"/>
+        <path id="Rectangle_1272" d="M0 0h7v2H0z" class="cls-1" data-name="Rectangle 1272" transform="translate(15 34)"/>
+        <path id="Rectangle_1273" d="M0 0h2v2H0z" class="cls-1" data-name="Rectangle 1273" transform="translate(24 34)"/>
+        <path id="Path_8614" d="M31.916 56l.167 2c.127-.01 12.734-1.191 15.882-12.733l-1.93-.526C43.26 54.912 32.377 55.964 31.916 56z" class="cls-1" data-name="Path 8614"/>
+        <path id="Rectangle_1274" d="M0 0h2v2H0z" class="cls-1" data-name="Rectangle 1274" transform="translate(47 34)"/>
+    </g>
+</svg>
